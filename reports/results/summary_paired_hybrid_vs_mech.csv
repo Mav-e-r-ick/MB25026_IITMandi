@@ -1,0 +1,4 @@
+comparison,horizon_min,mean_MAE_diff,CI_low,CI_high,participants_better,participants
+Hybrid (Kalman + GB residual) minus Mechanistic (Kalman),30,-0.526046513545796,-0.7509302566352907,-0.32313331987517896,37,45
+Hybrid (Kalman + GB residual) minus Mechanistic (Kalman),60,-0.31485135670937137,-0.7227191539511478,0.04990413854357967,27,45
+Hybrid (Kalman + GB residual) minus Mechanistic (Kalman),120,-0.23810770312400334,-0.9286219901965452,0.5430461778129336,28,45

@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+data/raw/
+data/processed/
+reports/results/oof_predictions.csv.gz
+reports/results/external_shanghai_predictions.csv.gz
+reports/results_quick/
+.DS_Store
+reports/results/examples_index.csv.gz

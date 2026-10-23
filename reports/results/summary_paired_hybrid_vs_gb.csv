@@ -1,0 +1,4 @@
+comparison,horizon_min,mean_MAE_diff,CI_low,CI_high,participants_better,participants
+Hybrid (Kalman + GB residual) minus Gradient boosting,30,0.03333521192060136,-0.050043408402180856,0.12055185310825599,19,45
+Hybrid (Kalman + GB residual) minus Gradient boosting,60,-0.11460522997823755,-0.37059421798627706,0.14085646386973139,27,45
+Hybrid (Kalman + GB residual) minus Gradient boosting,120,-0.3423200194396538,-0.9248260332144993,0.23552253490114808,28,45

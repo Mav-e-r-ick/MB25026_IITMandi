@@ -1,0 +1,7 @@
+patient_id,age,gender,group,hba1c,bmi,diagnoses,medications,source
+S-01,44,female,T2D,6.6,30.0,Type 2 diabetes,Metformin (synthetic record),"SYNTHETIC (generated, not a real person)"
+S-02,55,female,T2D,7.1,28.8,Type 2 diabetes,Metformin (synthetic record),"SYNTHETIC (generated, not a real person)"
+S-03,47,female,Prediabetes,5.5,24.9,Prediabetes (HbA1c 5.7-6.4%),None,"SYNTHETIC (generated, not a real person)"
+S-04,59,female,T2D,6.8,28.6,Type 2 diabetes,Metformin (synthetic record),"SYNTHETIC (generated, not a real person)"
+S-05,32,female,Healthy,4.9,25.4,None recorded,None,"SYNTHETIC (generated, not a real person)"
+S-06,42,female,Prediabetes,6.0,28.5,Prediabetes (HbA1c 5.7-6.4%),None,"SYNTHETIC (generated, not a real person)"

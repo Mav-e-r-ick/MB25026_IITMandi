@@ -1,0 +1,5 @@
+participant_id,group,age,gender,race_ethnicity,hba1c,source
+CGMacros-002,Healthy,49,female,Hispanic/Latino,5.5,"CGMacros v1.0.0 (real, de-identified; CC BY-NC-SA 4.0)"
+CGMacros-020,Prediabetes,59,female,African American,6.4,"CGMacros v1.0.0 (real, de-identified; CC BY-NC-SA 4.0)"
+CGMacros-028,T2D,59,female,Hispanic/Latino,7.0,"CGMacros v1.0.0 (real, de-identified; CC BY-NC-SA 4.0)"
+CGMacros-039,T2D,45,female,Hispanic/Latino,8.3,"CGMacros v1.0.0 (real, de-identified; CC BY-NC-SA 4.0)"
