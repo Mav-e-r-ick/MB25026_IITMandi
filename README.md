@@ -20,7 +20,7 @@ Summit, Bengaluru).
 |---|---|
 | Team name | MB25026 |
 | Team size | 1 (single-member team) |
-| Team leader and member | MB25026 (individual participant) |
+| Team leader and member | Buddharatna Hingole |
 
 ## College / incubator information
 
